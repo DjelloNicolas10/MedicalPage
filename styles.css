@@ -115,16 +115,23 @@ header {
 .header__container h1 {
   margin-bottom: 1rem;
   max-width: 800px;
-  font-size: 3.5rem;
+  font-size: 3rem;
   line-height: 4rem;
   color: var(--white);
 }
 
 .header__container p {
-  margin-bottom: 2rem;
+  margin-bottom: 1.7rem;
   max-width: 600px;
   color: var(--primary-color-light);
 }
+
+/* .header__content h1 {
+    font-size: 2rem;
+}
+.header__content p {
+   font-size: 1.1em;
+} */
 
 .header__form {
   width: 100%;
