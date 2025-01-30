@@ -126,12 +126,6 @@ header {
   color: var(--primary-color-light);
 }
 
-/* .header__content h1 {
-    font-size: 2rem;
-}
-.header__content p {
-   font-size: 1.1em;
-} */
 
 .header__form {
   width: 100%;
